@@ -36,7 +36,8 @@ Users should be able to:
 
 ### What I learned
 
-The syntax for box-shadow is (vertical, horizontal, blur, color).
+- The syntax for box-shadow is (vertical, horizontal, blur, color).
+- I learnt how to use downloaded fonts.
 
 ### Useful resources
 
